@@ -15,7 +15,6 @@ This repository contains a comprehensive notebook that demonstrates how to build
   - [Chatbot Implementation](#chatbot-implementation)
   - [Gradio Interface](#gradio-interface)
 - [Usage](#usage)
-- [License](#license)
 - [Contact](#contact)
 
 ---
